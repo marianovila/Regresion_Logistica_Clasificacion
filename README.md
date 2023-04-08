@@ -1,5 +1,3 @@
-En proceso
-
 Práctica sobre algoritmo de regresión logística.
 
 Python
